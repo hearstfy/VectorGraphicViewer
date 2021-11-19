@@ -7,7 +7,7 @@ dotnet run --project .\VectorGraphicViewer.UI\VectorGraphicViewer.UI.csproj
 ```
 
 # About  
-Shapes, file readers and shape drawers are dynamically instantiated by using reflection. Thats why you need to follow naming convention when adding new shape, file reader or shape drawer.
+Shapes, file readers and shape drawers are dynamically instantiated by using reflection. That's why you need to follow naming convention when adding new shape, file reader or shape drawer.
 
  **VectorGraphicViewer.Core :**   
  File processing logic and shape models reside in this project. 
